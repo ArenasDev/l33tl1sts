@@ -1,4 +1,5 @@
 ../../../WEB-INF/web.xml
+../../../WEB-INF/classes/auth_server_keystore.jwks
 ../../../WEB-INF/classes/spring/root-context.xml
 ../../../WEB-INF/classes/spring/config/server-config.xml
 ../../../WEB-INF/classes/spring/config/dev-properties-context.xml
