@@ -24,3 +24,9 @@
 ../../../WEB-INF/views/approve.jsp
 ../../../WEB-INF/views/home.jsp
 ../../../META-INF/MANIFEST.MF
+../../../WEB-INF/lib/commons-logging-1.2.jar;
+../../../META-INF/services/org.apache.commons.logging.LogFactory;
+../../../WEB-INF/lib/log4j-api-2.11.1.jar;
+../../../WEB-INF/lib/commons-httpclient-3.1.jar;
+../../../WEB-INF/spring/webflow-context.xml
+../../../WEB-INF/spring/webmvc-context.xml
